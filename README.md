@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielaAA518
 - 👀 I’m interested in web/game/UI/UX design, and web/frontend/mobile app development.
-- 🌱 I’m currently learning HTML/CSS, JavaScript, Figma, Swift, and Webflow.
-- 💞️ My interests are reading (love sci-fi, fantasy, and horror), writing, and dancing (I've danced hip-hop for 6 years!)
+- 🌱 I’m have expertise in Adobe Creative Suite (Photoshop, Illustrator, InDesign), HTML/CSS, JavaScript, Figma, and Swift.
+- 💞️ My interests are reading (love sci-fi, fantasy, and horror), writing, and dancing (I've danced hip-hop for 7 years!)
 - 📫 How to reach me: website: https://danielaaa518.github.io/index.html; LinkedIn: https://www.linkedin.com/in/daniela-akoh-a33811200/; email: danielaakoh@gmail.com; indeed: Daniela Akoh; GlassDoor: Daniela Akoh
 
 <!---
